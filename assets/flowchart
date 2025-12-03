@@ -1,0 +1,12 @@
+Start
+|
+show menu
+|
+take user choice
+|  |        |
+1  2      3 to 7
+add  view  (search, update, delete, summary)
+|
+repeat menu
+|
+exit
